@@ -12,4 +12,4 @@ Topics:
 
 * [4. Network Security](4.%20Network%20Security/Readme.md)
 
-* [5. Network Troubleshooting and Tools](5.%20Network%20Troubleshooting/Readme.md)
+* [5. Network Troubleshooting and Tools](5.%20Network%20Troubleshooting%20and%20Tools/Readme.md)
