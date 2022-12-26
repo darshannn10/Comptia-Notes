@@ -18,4 +18,4 @@ I hope, if you have landed here, this document can be of any use for you.
 * [2. Architecture and Design](https://github.com/darshannn10/Comptia-Notes/blob/main/Security%2B/2.%20Architecture%20and%20Design)
 * [3. Implementation](https://github.com/darshannn10/Comptia-Notes/blob/main/Security%2B/3.%20Implementation)
 * [4. Operations and Incident Response](https://github.com/darshannn10/Comptia-Notes/blob/main/Security%2B/4.%20Operations%20and%20Incident%20Response)
-* [5. Governance, Risk, and Compliance](https://github.com/darshannn10/Comptia-Notes/blob/main/Security%2B/5.%20Governance%2C%20Risk%2C%20and%20Compliance)
+* [5. Governance, Risk, and Compliance](https://github.com/darshannn10/Comptia-Notes/blob/main/Security%2B/5.%20%20Governance%2C%20Risk%2C%20and%20Compliance)
