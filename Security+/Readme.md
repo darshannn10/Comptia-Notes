@@ -14,8 +14,8 @@ I hope, if you have landed here, this document can be of any use for you.
 
 ## Sections
 
-* [1. Threats, Attacks, and Vulnerabilities](./1.%20Attacks%2C%20Threats%2C%20and%20Vulnerabilities/Readme.md)
-* [2. Architecture and Design](./2.%20Architecture%20and%20Design/Readme.md)
-* [3. Implementation](./3.0%20Implementation/Readme.md)
-* [4. Operations and Incident Response](./4.%20Operations%20and%20Incident%20Response/Readme.md)
-* [5. Governance, Risk, and Compliance](./5.%20Governance%2C%20Risk%2C%20and%20Compliance/Readme.md)
+* [1. Threats, Attacks, and Vulnerabilities](https://github.com/darshannn10/Comptia-Notes/tree/main/Security%2B/1.%20Attacks%2C%20Threats%2C%20and%20Vulnerabilities)
+* [2. Architecture and Design](https://github.com/darshannn10/Comptia-Notes/blob/main/Security%2B/2.%20Architecture%20and%20Design)
+* [3. Implementation](https://github.com/darshannn10/Comptia-Notes/blob/main/Security%2B/3.%20Implementation)
+* [4. Operations and Incident Response](https://github.com/darshannn10/Comptia-Notes/blob/main/Security%2B/4.%20Operations%20and%20Incident%20Response)
+* [5. Governance, Risk, and Compliance](https://github.com/darshannn10/Comptia-Notes/blob/main/Security%2B/5.%20Governance%2C%20Risk%2C%20and%20Compliance)
