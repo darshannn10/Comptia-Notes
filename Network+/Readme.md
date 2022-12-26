@@ -4,7 +4,7 @@ Notes for the Professor Messer course [CompTIA N10-007 Network+](https://www.pro
 
 Topics:
 
-* [1. Networking Concepts](1.%20Networking%20Concepts/Readme.md)
+* [1. Networking Concepts](1.%20Networking%20Concepts/Readme.md) 
 
 * [2. Infrastructure](2.%20Infrastructure/Readme.md)
 
